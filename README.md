@@ -1,3 +1,3 @@
 # flutter_application_1
 
-A new Flutter project.
+learn about CRUD SQLLITE on flutter
